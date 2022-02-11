@@ -1,4 +1,4 @@
-package dueno;
+package datos;
 
 public class persona {
     public String getNombre() {

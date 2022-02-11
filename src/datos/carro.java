@@ -1,4 +1,4 @@
-package carromotor;
+package datos;
 
 public interface carro {
 

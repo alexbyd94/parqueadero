@@ -1,6 +1,5 @@
-package parqueadero;
+package datos;
 
-import java.awt.*;
 import java.util.List;
 
 public class parqueo {

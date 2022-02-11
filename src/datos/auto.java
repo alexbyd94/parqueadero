@@ -1,6 +1,6 @@
-package carromotor;
+package datos;
 
-public class auto implements carro{
+public class auto implements carro {
     public void setTipoDevehiculo(String tipoDevehiculo) {
         this.tipoDevehiculo = tipoDevehiculo;
     }
